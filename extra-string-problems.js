@@ -23,8 +23,7 @@
 
 // Exercise #1: Use template literals to create a product listing sentence.
 
+// Exercise #2: Insert a product price inside a template literal.
 
-// Exercise #3: Insert a product price inside a template literal.
-
-// Exercise #4: Use a template literal to generate a personalized greeting message for a customer.
+// Exercise #3: Use a template literal to generate a personalized greeting message for a customer.
 
